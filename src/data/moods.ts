@@ -42,10 +42,10 @@ export const moods: Mood[] = [
       name: 'Rebel Goat',
       image: '🐐',
       quotes: [
-        "BAAAAAH! Let it out! I'll headbutt whatever's bothering you.",
+        "GRAAAAAH! Let it out! I'll headbutt whatever's bothering you.",
         "Anger is just energy. Let's channel it into something awesome.",
         "Sometimes you gotta rage. I'll be your angry buddy.",
-        "Your feelings are LOUD and VALID. Scream with me!"
+        "Your feelings are LOUD and VALID. LET'S SCREAM OUT LOUD!!"
       ],
       personality: 'fierce and supportive'
     },
