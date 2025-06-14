@@ -1,4 +1,3 @@
-
 import { Mood } from '../types/mood';
 
 export const moods: Mood[] = [
@@ -76,7 +75,7 @@ export const moods: Mood[] = [
       image: '🐹',
       quotes: [
         "I see your thoughts spinning. Let's sit in the water together.",
-        "Your brain is doing its thing. That's normal. Here, have some calm.",
+        "Your small brain is doing its thing. That's normal. Here, have some calm.",
         "Overthinking means you care. Now let's find some peace.",
         "I'm just gonna vibe here. Join me when you're ready."
       ],
